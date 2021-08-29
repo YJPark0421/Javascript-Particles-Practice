@@ -38,13 +38,13 @@ Training| `Java Script` `HTML` |`WordPress` `Elementor Plugin` | Create Interact
    > <p align="left"> <img src="https://user-images.githubusercontent.com/88306533/131233915-c0b320ff-6065-41eb-9d35-d342e94d9dc3.png" width="100%" height="100%"></img></p>
 --- 
 ### ◽ ❹ Add to Elementor
-   > <p align="left"> <img src="https://user-images.githubusercontent.com/88306533/131234169-5ee7f5f3-b683-431c-9419-70d1eb185da6.png" width="100%" height="100%"></img></p>
+   > <p align="left"> <img src="https://user-images.githubusercontent.com/88306533/131234640-d4b8d573-1206-4b1a-8d6b-2c045b6d24a3.png" width="100%" height="100%"></img></p>
 --- 
 ### ◽ ❺ Give a section a CSS ID 
-   > <p align="left"> <img src="https://user-images.githubusercontent.com/88306533/131234175-edfe78e9-8ea7-4223-9fcf-ac8710111582.png" width="100%" height="100%"></img></p>
+   > <p align="left"> <img src="https://user-images.githubusercontent.com/88306533/131234655-dfeda0b8-815c-4659-95ef-148edca911a9.png" width="100%" height="100%"></img></p>
 --- 
 ### ◽ ❻ Result
-   > <p align="left"> <img src="https://user-images.githubusercontent.com/88306533/131234180-4bea35d5-7308-449b-9211-b3a6186c56a8.png" width="100%" height="100%"></img></p>
+   > <p align="left"> <img src="https://user-images.githubusercontent.com/88306533/131234669-8a1d6cd0-3c29-45ee-b5ed-d61abc9095b4.png" width="100%" height="100%"></img></p>
 --- 
 <br>
 
