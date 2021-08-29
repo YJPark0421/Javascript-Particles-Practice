@@ -35,7 +35,7 @@ Training| `Java Script` `HTML` |`WordPress` `Elementor Plugin` | Create Interact
    > <p align="left"> <img src="https://user-images.githubusercontent.com/88306533/131233705-ab66548f-17e3-4a4b-8538-b941aa8fee2c.png" width="100%" height="100%"></img></p>
 --- 
 ### ◽ ❸ Add particles JS in the code template
-   > <p align="left"> <img src="https://user-images.githubusercontent.com/88306533/131233915-c0b320ff-6065-41eb-9d35-d342e94d9dc3.png" width="100%" height="100%"></img></p>
+   > <p align="left"> <img src="https://user-images.githubusercontent.com/88306533/131234753-46a1dcc4-66ee-4d5c-bb7c-219938434fbd.png" width="100%" height="100%"></img></p>
 --- 
 ### ◽ ❹ Add to Elementor
    > <p align="left"> <img src="https://user-images.githubusercontent.com/88306533/131234640-d4b8d573-1206-4b1a-8d6b-2c045b6d24a3.png" width="100%" height="100%"></img></p>
